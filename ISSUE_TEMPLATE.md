@@ -1,5 +1,6 @@
 Your Name: [Your name]  
 Your twitter handle: [optional]
+A few words about yourself: [why you do what you do, how you came to be filling this out, star wars vs star trek, etc., etc.]
 
 Talk title: [Or just the topic if you don't have one yet]
 
