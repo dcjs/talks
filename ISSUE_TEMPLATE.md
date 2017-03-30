@@ -7,7 +7,7 @@ Talk title: [Or just the topic if you don't have one yet]
 Talk abstract:  
 [A longer description of what you'd like to speak about goes here... you can revise this over time!]
 
-Expected length: [Example: 45mins; use a range if your'e flexible]
+Expected length: [Example: 45mins; use a range if you're flexible]
 
 Available months: [Example: July, Aug, Sept | Example: Not October | Example: All of them]
 
