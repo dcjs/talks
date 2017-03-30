@@ -13,9 +13,12 @@ Available months: [Example: July, Aug, Sept | Example: Not October | Example: Al
 
 _We meet on the second Thursday of the month generally. You can use this handy-dandy list to check dates:_
 
-- Thu Jul 14 2016
-- Thu Aug 11 2016
-- Thu Sep 08 2016
-- Thu Oct 13 2016
-- Thu Nov 10 2016
-- Thu Dec 08 2016
+- Thu Apr 13 2017
+- Thu May 11 2017
+- Thu Jun 08 2017
+- Thu Jul 13 2017
+- Thu Aug 10 2017
+- Thu Sep 14 2017
+- Thu Oct 12 2017
+- Thu Nov 09 2017
+- Thu Dec 14 2017
