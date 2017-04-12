@@ -1,0 +1,45 @@
+version: "3"
+
+# adapted from https://docs.docker.com/compose/wordpress/
+
+services:
+   db:
+     image: mysql:5.7
+     volumes:
+       - db_data:/var/lib/mysql
+     restart: always
+     environment:
+       MYSQL_ROOT_PASSWORD: localdb
+       MYSQL_DATABASE: localdb
+       MYSQL_USER: localdb
+       MYSQL_PASSWORD: localdb
+
+   php:
+     image: secure_apache_php:latest
+     depends_on:
+       - db
+     ports:
+       - "80:80"
+       - "443:443"
+     restart: always
+     environment:
+       WORDPRESS_DB_HOST: db:3306
+       WORDPRESS_DB_PASSWORD: localdb
+     
+     volumes:
+       - ./app:/var/www/html
+   pma:
+      image: phpmyadmin/phpmyadmin  
+      depends_on:
+        - db
+      ports:
+        - "8080:80"
+      environment:
+        PMA_HOST: db
+        PMA_USER: localdb
+        PMA_PASSWORD: localdb
+        PHP_UPLOAD_MAX_FILESIZE: 1G
+        PHP_MAX_INPUT_VARS: 1G
+
+volumes:
+    db_data:
