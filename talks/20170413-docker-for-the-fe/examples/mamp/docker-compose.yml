@@ -28,6 +28,7 @@ services:
      
      volumes:
        - ./app:/var/www/html
+       
    pma:
       image: phpmyadmin/phpmyadmin  
       depends_on:
