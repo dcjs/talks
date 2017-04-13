@@ -1,7 +1,5 @@
 version: "3"
 
-# adapted from https://docs.docker.com/compose/wordpress/
-
 services:
    db:
      image: mysql:5.7
@@ -13,7 +11,6 @@ services:
        MYSQL_DATABASE: localdb
        MYSQL_USER: localdb
        MYSQL_PASSWORD: localdb
-
    php:
      image: secure_apache_php:latest
      depends_on:
@@ -25,10 +22,8 @@ services:
      environment:
        WORDPRESS_DB_HOST: db:3306
        WORDPRESS_DB_PASSWORD: localdb
-     
      volumes:
        - ./app:/var/www/html
-       
    pma:
       image: phpmyadmin/phpmyadmin  
       depends_on:
@@ -41,6 +36,5 @@ services:
         PMA_PASSWORD: localdb
         PHP_UPLOAD_MAX_FILESIZE: 1G
         PHP_MAX_INPUT_VARS: 1G
-
 volumes:
     db_data:

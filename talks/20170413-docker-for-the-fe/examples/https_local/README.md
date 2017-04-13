@@ -10,7 +10,7 @@ to do this all locally with a nice green secure lock icon.
 ## To run your current directory https://localhost/
 
 ```
-docker run -d -p 80:80 -p 443:443 -v $PWD:/var/www/html marvambass/apache2-ssl-secure
+docker run -d -p 80:80 -p 443:443 -v $PWD/app:/var/www/html marvambass/apache2-ssl-secure
 ```
 
 The marvambass/apache2-ssl-secure container will automatically create a self-signed cert
