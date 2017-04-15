@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+  <head><meta charset=utf-8><title>DCJS Test Https</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="manifest" href="./manifest.json">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,600,300italic,600italic" rel="stylesheet" type="text/css">
+
+  </head>
+
+<body>
+
+<h1>A local file on https</h1>
+
+
+<h2>Some stuff<h2>
+
+<p>
+  <button onclick="loadExternalNonHttpsScript()">Click me to load a non-https asset</button>
+</p>
+
+<p>
+  <button onclick="loadExternalHttpsScript()">Click me to load an HTTPS asset</button>
+</p>
+
+<script>
+
+const loadExternalNonHttpsScript = function(){
+  const script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src = 'http://localhost/test.js'
+  document.head.appendChild(script);
+}
+
+const loadExternalHttpsScript = function(){
+  const script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src = 'https://localhost/test.js'
+  document.head.appendChild(script);
+}
+
+</script>
+
+</body>
+</html>
