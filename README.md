@@ -25,3 +25,6 @@ If you'd like to submit a talk idea, please create a [new GitHub issue](https://
 If you just want to ask a question, feel free to ing us on [Twitter](https://twitter.com/dcjavascript).
 
 You can also contact the organizers on the [Meetup](http://www.meetup.com/DC-JavaScript/) page.
+
+DCJS is run by @elgreg, @jakerella, and @asabaylus
+
