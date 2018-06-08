@@ -13,8 +13,6 @@ Available months: [Example: July, Aug, Sept | Example: Not October | Example: Al
 
 _We meet on the second Thursday of the month generally. You can use this handy-dandy list to check dates:_
 
-- [ ] DCJS[59] Thu Jun 14 2018 
-- [ ] DCJS[60] Thu Jul 12 2018
 - [ ] DCJS[61] Thu Aug 09 2018
 - [ ] DCJS[62] Thu Sep 13 2018
 - [ ] DCJS[63] Thu Oct 11 2018
