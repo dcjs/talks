@@ -1,5 +1,5 @@
 **Your Name:** [Your name]  
-**Your twitter handle:** [optional]
+**Your twitter handle:** [optional]  
 **A few words about yourself:** [why you do what you do, how you came to be filling this out, star wars vs star trek, etc., etc.]
 
 **Talk title:** [Or just the topic if you don't have one yet]
@@ -13,10 +13,6 @@
 
 _We meet on the second Thursday of the month generally. You can use this handy-dandy list to check dates:_
 
-- [ ] DCJS[61] Thu Aug 09 2018
-- [ ] DCJS[62] Thu Sep 13 2018
-- [ ] DCJS[63] Thu Oct 11 2018
-- [ ] DCJS[64] Thu Nov 08 2018
 - [ ] DCJS[65] Thu Dec 13 2018
 - [ ] DCJS[66] Thu Jan 10 2019
 - [ ] DCJS[67] Thu Feb 14 2019
