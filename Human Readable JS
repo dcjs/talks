@@ -1,0 +1,6 @@
+Human Readable JavaScript: Using ES2015+ to Craft Better Code
+
+Love JavaScript? Awesome! Hate JavaScript? That's ok! We know that JavaScript hasn't been very easy to read in the past, lots of dollar signs and slick one-liners. 
+The good news is that things have gotten better! In this talk we'll look at some of the syntax ES2015+ introduced to help us write more readable code for our coworkers and our future selves.
+
+This talk is focused on what makes code readable, how past JavaScript hasn't been great at following those recommendations, and the tools in ES2015+ that can help us out.
