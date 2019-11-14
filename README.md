@@ -18,6 +18,10 @@ Once you have a topic in mind, go ahead and fill out a talk request using [a Git
 
 As your talk approaches you'll want to review the [Speaker Primer](speaker-primer.md) we've prepared. Of course, we'll continue to help any way we can up until, and even after, your talk.
 
+## Code of Conduct
+
+DCJS is dedicated to providing a welcoming, respectful community for everyone who participates in or supports our meetup. Because we value the safety and security of our members and strive to have an inclusive community, all members, volunteers, and participants are expected to have read and to comply with our community's Code of Conduct. Participation in our events or online space is considered agreement with the Code of Conduct, which you can find in its full version [here](docs/code-of-conduct.md)
+
 ## Contacting Us
 
 If you'd like to submit a talk idea, please create a [new GitHub issue](https://github.com/dcjs/talks/issues/new)!
