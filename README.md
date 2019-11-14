@@ -20,7 +20,7 @@ As your talk approaches you'll want to review the [Speaker Primer](speaker-prime
 
 ## Code of Conduct
 
-DCJS is dedicated to providing a welcoming, respectful community for everyone who participates in or supports our meetup. Because we value the safety and security of our members and strive to have an inclusive community, all members, volunteers, and participants are expected to have read and to comply with our community's Code of Conduct. Participation in our events or online space is considered agreement with the Code of Conduct, which you can find in its full version [here](docs/code-of-conduct.md)
+DCJS is dedicated to providing a welcoming, respectful community for everyone who participates in or supports our meetup. Because we value the safety and security of our members and strive to have an inclusive community, all members, volunteers, and participants are expected to have read and to comply with our community's Code of Conduct. Participation in our events or online space is considered agreement with the Code of Conduct, which you can find in its full version [here](docs/code-of-conduct.md).
 
 ## Contacting Us
 
