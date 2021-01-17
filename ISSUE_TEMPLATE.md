@@ -13,14 +13,13 @@
 [Feel free to add an explanation. For example: Anything but October || Any time!]
 
 _We meet on the second Thursday of the month generally. You can use this handy-dandy list to check dates:_  
-- [ ] DCJS[77] Thu Feb 13 2020
-- [ ] DCJS[78] Thu Mar 12 2020
-- [ ] DCJS[79] Thu Apr 09 2020
-- [ ] DCJS[80] Thu May 14 2020
-- [ ] DCJS[81] Thu Jun 11 2020
-- [ ] DCJS[82] Thu Jul 09 2020
-- [ ] DCJS[83] Thu Aug 13 2020
-- [ ] DCJS[84] Thu Sep 10 2020
-- [ ] DCJS[85] Thu Oct 08 2020
-- [ ] DCJS[86] Thu Nov 12 2020
-- [ ] DCJS[77] Thu Dec 10 2020
+- [ ] DCJS[81] Thu Mar 11 2021
+- [ ] DCJS[82] Thu Apr 08 2021
+- [ ] DCJS[83] Thu May 13 2021
+- [ ] DCJS[84] Thu Jun 10 2021
+- [ ] DCJS[85] Thu Jul 08 2021
+- [ ] DCJS[86] Thu Aug 12 2021
+- [ ] DCJS[87] Thu Sep 09 2021
+- [ ] DCJS[88] Thu Oct 14 2021
+- [ ] DCJS[89] Thu Nov 11 2021
+- [ ] DCJS[90] Thu Dec 09 2021
